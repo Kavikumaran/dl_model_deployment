@@ -1,5 +1,2 @@
-numpy
-scikit-learn
-tensorflow==2.12.0
+tensorflow
 streamlit
-streamlit-option-menu
